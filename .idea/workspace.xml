@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2747380a-ce1a-4218-b900-7bf1590c596c" name="Default Changelist" comment="" />
+    <list default="true" id="2747380a-ce1a-4218-b900-7bf1590c596c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Project.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminSanctions/project.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AdminSanctions/project.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AdminSanctions/scheme.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Layout/DashboardLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Layout/DashboardLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Rough.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AdminSanctions/Scheme.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bITqo5298H5L2Rm986Cs11gizg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -23,7 +37,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\tsiva\Desktop\vuematerial\vmdashboard\node_modules\prettier" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tsiva\Desktop\vuematerial\vmdashboard\src\pages\AdminSanctions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.project.vue">
+    <configuration name="project.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vmdashboard/src/pages/AdminSanctions/project.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -34,9 +56,21 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
+        <item itemvalue="JavaScript Debug.project.vue" />
+        <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
   </component>
@@ -51,6 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588318800471</updated>
       <workItem from="1588318803027" duration="475000" />
+      <workItem from="1588342473198" duration="536000" />
+      <workItem from="1588343031508" duration="3588000" />
     </task>
     <servers />
   </component>
@@ -58,30 +94,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="693" height="224" key="GridCell.Tab.0.bottom" timestamp="1588318853318">
+    <state width="1348" height="2" key="GridCell.Tab.0.bottom" timestamp="1588344796753">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="693" height="224" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588318853318" />
-    <state width="693" height="224" key="GridCell.Tab.0.center" timestamp="1588318853318">
+    <state width="1348" height="2" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1588344796753" />
+    <state width="1348" height="2" key="GridCell.Tab.0.center" timestamp="1588344796752">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="693" height="224" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1588318853318" />
-    <state width="693" height="224" key="GridCell.Tab.0.left" timestamp="1588318853317">
+    <state width="1348" height="2" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1588344796752" />
+    <state width="1348" height="2" key="GridCell.Tab.0.left" timestamp="1588344796751">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="693" height="224" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1588318853317" />
-    <state width="693" height="224" key="GridCell.Tab.0.right" timestamp="1588318853318">
+    <state width="1348" height="2" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1588344796751" />
+    <state width="1348" height="2" key="GridCell.Tab.0.right" timestamp="1588344796752">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="693" height="224" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1588318853318" />
+    <state width="1348" height="2" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1588344796752" />
+    <state x="93" y="93" width="1181" height="685" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1588342980762">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1368.872@0.0.1368.872" timestamp="1588342980762" />
+    <state x="492" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588344582556">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="492" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1588344582556" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/pages/Rough.vue</url>
+          <url>file://$PROJECT_DIR$/src/pages/AdminSanctions/Scheme.vue</url>
           <line>71</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
