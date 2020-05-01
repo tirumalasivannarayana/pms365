@@ -2,8 +2,8 @@ import DashboardLayout from "@/pages/Layout/DashboardLayout.vue";
 
 import Dashboard from "@/pages/Dashboard.vue";
 import UserDept from "@/pages/UserDept.vue";
-//import scheme from "@/pages/AdminSanctions/scheme.vue";
-import Rough from "@/pages/Rough.vue";
+import Scheme from "@/pages/AdminSanctions/Scheme.vue";
+import project from "@/pages/Project.vue";
 //import UserProfile from "@/pages/UserProfile.vue";
 import TableList from "@/pages/TableList.vue";
 import Typography from "@/pages/Typography.vue";
@@ -11,6 +11,8 @@ import Icons from "@/pages/Icons.vue";
 import Maps from "@/pages/Maps.vue";
 import Notifications from "@/pages/Notifications.vue";
 import UpgradeToPRO from "@/pages/UpgradeToPRO.vue";
+import Project from "../pages/Project";
+
 
 const routes = [
   {
@@ -29,12 +31,16 @@ const routes = [
         component: UserDept
       },
       {
-        path: "rough",
-        name: "Scheme",
-        component: Rough
+        path: "scheme",
+        name: "scheme",
+        component: Scheme
+      },
+      {
+        path: "project",
+        name: "Project",
+        component: Project
       },
 
-      
       {
         path: "table",
         name: "Table List",

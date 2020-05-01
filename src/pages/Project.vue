@@ -56,7 +56,7 @@
 </template>
 <script>
     export default {
-        name: "scheme",
+        name: "project",
         props: {
             dataBackgroundColor: {
                 type: String,

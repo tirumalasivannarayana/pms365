@@ -11,8 +11,7 @@
             <div class="md-layout-item md-small-size-100 md-size-50">
             <md-field>
               <label>Select Organisation</label>
-
-
+              
               <!-- v-for loop for organisation-->
               <md-select v-model="country" name="country" id="country" placeholder="organisation">
                 <md-option value="australia">Australia</md-option>
@@ -22,8 +21,6 @@
               </md-select>
             </md-field>
           </div>         
-
-
           <div class="md-layout-item md-small-size-100 md-size-50">
             <md-field>
               <label>Create Scheme id   (Eg:NSP,MOP)</label>
@@ -59,7 +56,7 @@
 </template>
 <script>
 export default {
-  name: "scheme",
+  name: "Scheme",
   props: {
     dataBackgroundColor: {
       type: String,

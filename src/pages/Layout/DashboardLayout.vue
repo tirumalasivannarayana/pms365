@@ -15,9 +15,14 @@
         <md-icon>person</md-icon>
         <p>User Department</p>
       </sidebar-link>
-       <sidebar-link to="/rough">
+       <sidebar-link to="/scheme">
         <md-icon>Letter</md-icon>
         <p>Scheme</p>
+      </sidebar-link>
+
+      <sidebar-link to="/project">
+        <md-icon>Letter</md-icon>
+        <p>Project</p>
       </sidebar-link>
       <sidebar-link to="/table">
         <md-icon>content_paste</md-icon>
