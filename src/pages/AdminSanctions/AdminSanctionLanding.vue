@@ -5,17 +5,17 @@
             <template slot="content">
                 <span class="md-nav-tabs-title">Create:</span>
                 <md-tabs md-sync-route class="md-primary" md-alignment="left">
-                    <md-tab id="tab-home" md-label="AdminSanction">
+                    <md-tab id="tab-adminsanction" md-label="AdminSanction">
                     </md-tab>
-                    <md-tab id="tab-pages" md-label="Project">
+                    <md-tab id="tab-project" md-label="Project">
+                    </md-tab>
+                    <md-tab id="tab-techsanction" md-label="Tech Sanction" >
+                    </md-tab>
+                    <md-tab id="tab-work" md-label="Work">
+                    </md-tab>
+                    <md-tab id="tab-technicalapproval" md-label="Technical Approval">
+                    </md-tab>
 
-                    </md-tab>
-                    <md-tab id="tab-posts" md-label="Work" >
-
-                    </md-tab>
-                    <md-tab id="tab-posts" md-label="Tech Sanction" >
-
-                    </md-tab>
                     <md-tab id="tab-posts" md-label="Work" md-icon="cloud">
                         <nav-tabs-table></nav-tabs-table>
                     </md-tab>
