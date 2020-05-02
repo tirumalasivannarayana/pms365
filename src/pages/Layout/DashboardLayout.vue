@@ -16,6 +16,10 @@
         <md-icon>person</md-icon>
         <p>User Department</p>
       </sidebar-link>
+      <sidebar-link to="/icons">
+        <md-icon>bubble_chart</md-icon>
+        <p>Icons</p>
+      </sidebar-link>
        <sidebar-link to="/scheme">
         <md-icon>Letter</md-icon>
         <p>Scheme</p>
@@ -33,10 +37,8 @@
         <md-icon>library_books</md-icon>
         <p>Typography</p>
       </sidebar-link>
-      <sidebar-link to="/icons">
-        <md-icon>bubble_chart</md-icon>
-        <p>Icons</p>
-      </sidebar-link>
+
+
       <sidebar-link to="/maps">
         <md-icon>location_on</md-icon>
         <p>Maps</p>
