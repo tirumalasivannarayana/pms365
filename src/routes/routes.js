@@ -12,6 +12,7 @@ import Maps from "@/pages/Maps.vue";
 import Notifications from "@/pages/Notifications.vue";
 import UpgradeToPRO from "@/pages/UpgradeToPRO.vue";
 import Project from "../pages/Project";
+import AdminSanctionLanding from "../pages/AdminSanctions/AdminSanctionLanding";
 
 
 const routes = [
@@ -54,7 +55,7 @@ const routes = [
       {
         path: "icons",
         name: "Icons",
-        component: Icons
+        component: AdminSanctionLanding
       },
       {
         path: "maps",
